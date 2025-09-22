@@ -1,0 +1,2 @@
+run_id,method,seed,precision,recall,f1,map_50,map_5095,avg_latency_ms,fallback_rate,ece,num_frames,num_suspicious,hardware,notes,date
+run_20250920T193358,best.pt,,,,,,,455.93686401844025,0.0,,11,0,,,2025-09-20T19:34:13.817217

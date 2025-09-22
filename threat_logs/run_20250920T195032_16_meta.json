@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-09-20T19:51:33.175133",
+  "threat_score": 0.7102822440087145,
+  "meta": {
+    "avg_uncertainty": 1.0,
+    "disagreement": 0.6666666666666667,
+    "image_quality": 0.05141122004357298,
+    "per_camera_blur": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "per_camera_brightness_extremes": [
+      0.006449005991285395,
+      0.03556975081699343,
+      0.26644856345315904
+    ]
+  },
+  "image_paths": {
+    "0": "threat_logs/images\\sus_run_20250920T195032_cam0_20250920T195133175.jpg",
+    "1": "threat_logs/images\\sus_run_20250920T195032_cam1_20250920T195133178.jpg",
+    "2": "threat_logs/images\\sus_run_20250920T195032_cam2_20250920T195133180.jpg"
+  },
+  "consensus": [
+    {
+      "class_id": 0,
+      "final_confidence": 0.6225570223236222,
+      "uncertainty": 1.0,
+      "consensus_strength": 0.0,
+      "per_camera_bboxes": {
+        "1": [
+          0.0,
+          43.123291015625,
+          587.0634765625,
+          307.172119140625
+        ]
+      }
+    },
+    {
+      "class_id": 0,
+      "final_confidence": 0.5736387547152618,
+      "uncertainty": 1.0,
+      "consensus_strength": 0.0,
+      "per_camera_bboxes": {
+        "2": [
+          99.010498046875,
+          80.4169921875,
+          636.584228515625,
+          298.2730407714844
+        ]
+      }
+    }
+  ],
+  "per_camera_dets": {
+    "0": [],
+    "1": [
+      {
+        "class_id": 0,
+        "confidence": 0.6457704305648804,
+        "bbox": [
+          0.0,
+          43.123291015625,
+          587.0634765625,
+          307.172119140625
+        ]
+      }
+    ],
+    "2": [
+      {
+        "class_id": 0,
+        "confidence": 0.5880852341651917,
+        "bbox": [
+          99.010498046875,
+          80.4169921875,
+          636.584228515625,
+          298.2730407714844
+        ]
+      }
+    ]
+  }
+}
