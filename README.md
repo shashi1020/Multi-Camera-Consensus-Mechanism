@@ -1,4 +1,4 @@
-# 🔫 Real-Time Weapon Detection System using YOLOv8 and OpenCV
+SENTINEL NEXUS: Advanced Multi-Camera Adaptive Threat Detection
 
 ## 📝 Abstract
 
