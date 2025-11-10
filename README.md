@@ -1,4 +1,4 @@
-SENTINEL NEXUS: Advanced Multi-Camera Adaptive Threat Detection
+# SENTINEL NEXUS: Advanced Multi-Camera Adaptive Threat Detection
 
 ## 📝 Abstract
 
