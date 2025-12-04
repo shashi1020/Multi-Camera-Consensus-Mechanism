@@ -51,11 +51,8 @@ A minimal layout for this project:
 ├── threat_logs/              # Auto-created directory for suspicious samples
 └── README.md
 
-<img width="770" height="477" alt="adversarial-attacks-machine-learning" src="https://github.com/user-attachments/assets/4ab18768-1a63-44c5-af7f-c54a86bdc75c" />
-<img width="3043" height="3193" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/0743edfd-8925-4cca-86a4-0ecf5d9e7c63" />
-![Multi-Camera_Consensus_Algorithm_-_Intelligent_Fusion_ _Weighted_Voting_System](https://github.com/user-attachments/assets/d359cc47-7943-401a-bd73-1b77ab9c480a)
-![comparison_cam1_frame13](https://github.com/user-attachments/assets/aaf11075-168f-4ce3-a7af-14c268ba5760)
 
+![comparison_cam1_frame13](https://github.com/user-attachments/assets/aaf11075-168f-4ce3-a7af-14c268ba5760)
 
 ![cam1_weapon_20250623_115954_493007](https://github.com/user-attachments/assets/08dc9f5e-115c-41e9-a92f-b33f206c3675)
 ![res](https://github.com/user-attachments/assets/0d9613bd-9433-4eba-b8d0-2a4b056a80fc)
