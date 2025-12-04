@@ -50,7 +50,7 @@ A minimal layout for this project:
 │   └── robust_model.pt       # Optional robust YOLO weights
 ├── threat_logs/              # Auto-created directory for suspicious samples
 └── README.md
-![Multi-Camera_Consensus_Algorithm_-_Intelligent_Fusion_ _Weighted_Voting_System](https://github.com/user-attachments/assets/f3e869e0-6143-4ab6-81e8-4f7a075716ed)
-<img width="3043" height="3193" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/1c51ad2a-52d2-4071-8aa6-cc5a0ac44a14" />
 
-<img width="770" height="477" alt="adversarial-attacks-machine-learning" src="https://github.com/user-attachments/assets/51f5cd62-502a-423c-87e2-0b0742267492" />
+![Multi-Camera_Consensus_Algorithm_-_Intelligent_Fusion_ _Weighted_Voting_System](https://github.com/user-attachments/assets/a75fedff-bfa4-43e4-bd95-ac9b53837cee)
+
+
