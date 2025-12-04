@@ -1,4 +1,4 @@
-![Multi-Camera_Consensus_Algorithm_-_Intelligent_Fusion_ _Weighted_Voting_System](https://github.com/user-attachments/assets/444341ab-e4c4-4590-b750-77c2324dd19e)![Multi-Camera_Consensus_Algorithm_-_Intelligent_Fusion_ _Weighted_Voting_System](https://github.com/user-attachments/assets/a9a3de08-73a9-4a5c-aa96-dd4623bb3aba)# SENTINEL NEXUS: Advanced Multi-Camera Adaptive Threat Detection
+# SENTINEL NEXUS: Advanced Multi-Camera Adaptive Threat Detection
 
 > **Research-only prototype**: a safety wrapper around YOLO-based object detection that:
 > - Fuses detections from multiple cameras,
@@ -50,9 +50,7 @@ A minimal layout for this project:
 │   └── robust_model.pt       # Optional robust YOLO weights
 ├── threat_logs/              # Auto-created directory for suspicious samples
 └── README.md
+![Multi-Camera_Consensus_Algorithm_-_Intelligent_Fusion_ _Weighted_Voting_System](https://github.com/user-attachments/assets/f3e869e0-6143-4ab6-81e8-4f7a075716ed)
+<img width="3043" height="3193" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/1c51ad2a-52d2-4071-8aa6-cc5a0ac44a14" />
 
-
-![comparison_cam1_frame13](https://github.com/user-attachments/assets/aaf11075-168f-4ce3-a7af-14c268ba5760)
-
-![cam1_weapon_20250623_115954_493007](https://github.com/user-attachments/assets/08dc9f5e-115c-41e9-a92f-b33f206c3675)
-![res](https://github.com/user-attachments/assets/0d9613bd-9433-4eba-b8d0-2a4b056a80fc)
+<img width="770" height="477" alt="adversarial-attacks-machine-learning" src="https://github.com/user-attachments/assets/51f5cd62-502a-423c-87e2-0b0742267492" />
